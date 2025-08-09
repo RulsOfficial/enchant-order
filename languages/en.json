@@ -117,6 +117,12 @@
         "vanishing_curse": "Curse of Vanishing",
         "density": "Density",
         "breach": "Breach",
-        "wind_burst": "Wind Burst"
+        "wind_burst": "Wind Burst",
+        "chill_aura": "Chill Aura",
+        "fire_react": "Fire React",
+        "mana_regen": "Mana Regen",
+        "mana_boost": "Mana Boost",
+        "spellweave": "Spellweave",
+        "reactive": "Reactive"
     }
 }
