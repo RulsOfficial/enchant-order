@@ -117,6 +117,13 @@
         "vanishing_curse": "Maldición de desaparición",
         "density": "Densidad",
         "breach": "Fisura",
-        "wind_burst": "Aeroimpulso"
+        "wind_burst": "Aeroimpulso",
+        "chill_aura": "Aura Gélida",
+        "fire_react": "Reacción Ígnea",
+        "mana_regen": "Regeneración de Maná",
+        "mana_boost": "Aumento de Maná",
+        "spellweave": "Tejido de Hechizos",
+        "reactive": "Reactivo"
+
     }
 }
