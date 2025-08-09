@@ -1,4 +1,4 @@
-# Minecraft Enchantment Ordering Tool Fork
+# Minecraft Enchantment Ordering Tool (Fork)
 
 Esta es una versión personalizada de la herramienta original para calcular el orden óptimo al combinar libros de encantamientos en Minecraft, adaptada para un servidor privado y con soporte para encantamientos nuevos.
 
