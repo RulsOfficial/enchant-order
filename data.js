@@ -264,31 +264,37 @@ var data = {
         chill_aura: {
             levelMax: "3",
             weight: "4",
+            incompatible: ["fire_react"],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         fire_react: {
             levelMax: "3",
             weight: "4",
+            incompatible: ["chill_aura"],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         mana_regen: {
             levelMax: "3",
             weight: "1",
+            incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         mana_boost: {
             levelMax: "3",
             weight: "1",
+            incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         spellweave: {
             levelMax: "3",
             weight: "1",
+            incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots"]
         },
         reactive: {
             levelMax: "4",
             weight: "1",
+            incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots"]
         }
 
