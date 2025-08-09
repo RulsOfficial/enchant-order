@@ -1,21 +1,16 @@
-# Minecraft Enchantment Ordering Tool
+# Minecraft Enchantment Ordering Tool – Versión con Encantamientos Nuevos
 
-This web-based tool allows you to find the optimal order for combining enchant books in Minecraft to minimize XP cost.
+Esta es una versión personalizada de la herramienta original para calcular el orden óptimo al combinar libros de encantamientos en Minecraft, adaptada para un servidor privado y con soporte para encantamientos nuevos.
 
-You can use it here: https://iamcal.github.io/enchant-order/
+Puedes usarla aquí: https://rulsofficial.github.io
 
-The tool works by trying every possible combining sequence and calculating the cost of each.
-For items with many enchantments, this can mean trying a few million combinations.
-The work happens in a background thread (a WebWorker) and the best solution is explained.
+## Encantamientos nuevos incluidos
 
+Además de los encantamientos estándar de Minecraft, esta versión añade varios nuevos para uso en el servidor, como:
 
-## Localization
-
-You can add support for new languages by:
-
-* Adding a new JSON file inside `languages/` (see existing files there for hints)
-* Modifying `script.js` to add the language to the supported list
-* Modifying `lang.html` in the same way
-* Opening `lang.html` in the browser to verify if the required strings are all implemented
-
-Please open a PR with the above changes to have your language merged (or updated).
+- Aura Gélida  
+- Reacción Ígnea  
+- Regeneración de Maná  
+- Aumento de Maná  
+- Tejido de Hechizos  
+- Reactivo
