@@ -10,25 +10,7 @@ let enchants_list;
 
 const languages = {
     'en'    : 'English',
-
-    // in alphabetical order
-    'de'    : 'Deutsch',
     'es-ES' : 'Español',
-    'fr-FR' : 'Français',
-    'it-IT' : 'Italiano',
-    'nl'    : 'Nederlands',
-    'pl-PL' : 'Polski',
-    'pt-BR' : 'Português',
-    'vi-VN' : 'Tiếng Việt',
-    'tr-TR' : 'Türkçe',
-    'be-BY' : 'Беларуская',
-    'ru-RU' : 'Русский',
-    'ua-UA' : 'Українська',
-    'th-TH' : 'ภาษาไทย',
-    'zh-CN' : '中文',
-    'ja-JP' : '日本語',
-    'ko-KR' : '한국어',
-
 };
 
 const languages_cache_key = 6;
