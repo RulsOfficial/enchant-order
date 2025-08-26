@@ -1,16 +1,21 @@
-# Minecraft Enchantment Ordering Tool (Fork)
+## Minecraft Enchantment Ordering Tool (Fork)
 
-Esta es una versión personalizada de la herramienta original para calcular el orden óptimo al combinar libros de encantamientos en Minecraft, adaptada para un servidor privado y con soporte para encantamientos nuevos.
+This is a customized version of the original tool for calculating the optimal order when combining enchantment books in Minecraft. It has been adapted for a private server and includes support for new enchantments.
 
-Puedes usarla aquí: https://rulsofficial.github.io
+You can use it here: https://rulsofficial.github.io
 
-## Encantamientos nuevos incluidos
+## New Enchantments Included
 
-Además de los encantamientos estándar de Minecraft, esta versión añade varios nuevos para uso en el servidor, como:
+In addition to the standard Minecraft enchantments, this version adds several new ones for use on the server, such as:
 
-- Aura Gélida  
-- Reacción Ígnea  
-- Regeneración de Maná  
-- Aumento de Maná  
-- Tejido de Hechizos  
-- Reactivo
+-  Chill Aura from The Twilight Forest
+
+-  Fire React from The Twilight Forest
+
+-  Mana Regen from Ars Nouveau
+
+-  Mana Boost from Ars Nouveau
+
+-  Spellweave from Ars Nouveau: Ars Additions
+
+-  Reactive from Ars Nouveau
