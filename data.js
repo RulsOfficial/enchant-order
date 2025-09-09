@@ -126,8 +126,7 @@ var data = {
             incompatible: ["infinity"],
             items: ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
                 "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "trident",
-                "turtle_shell", "crossbow", "mace"
-            ]
+                "turtle_shell", "crossbow", "mace"]
         },
         multishot: {
             levelMax: "1",
@@ -225,8 +224,7 @@ var data = {
             incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
                 "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "trident",
-                "turtle_shell", "crossbow", "mace"
-            ]
+                "turtle_shell", "crossbow", "mace"]
         },
         binding_curse: {
             levelMax: "1",
@@ -240,8 +238,7 @@ var data = {
             incompatible: [],
             items: ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
                 "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "pumpkin",
-                "helmet", "trident", "turtle_shell", "crossbow", "mace"
-            ]
+                "helmet", "trident", "turtle_shell", "crossbow", "mace"]
         },
         density: {
             levelMax: "5",
@@ -295,7 +292,9 @@ var data = {
             levelMax: "4",
             weight: "1",
             incompatible: [],
-            items: ["helmet", "chestplate", "leggings", "boots"]
+            items: ["helmet", "chestplate", "leggings", "boots", "pickaxe", "shovel", "axe", "sword", "hoe", "brush", "fishing_rod",
+                "bow", "shears", "flint_and_steel", "carrot_on_a_stick", "warped_fungus_on_a_stick", "shield", "elytra", "trident",
+                "turtle_shell", "crossbow", "mace"]
         }
 
     },
