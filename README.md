@@ -4,7 +4,7 @@ A customized fork of the original **[Enchant Order](https://github.com/iamcal/en
 This version has been **adapted for a private server** and includes **support for additional enchantments** beyond the vanilla ones.
 
 You can use it here:
-👉 **[rulsofficial.github.io](https://rulsofficial.github.io)**
+👉 **[rulsofficial.github.io/enchant-order](https://rulsofficial.github.io/enchant-order)**
 
 ## Additional Enchantments
 
